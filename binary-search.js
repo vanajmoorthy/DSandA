@@ -1,5 +1,5 @@
-const input = [1, 2, 3, 4, 5];
-const target = 5;
+// Vanaj Moorthy. 12th August 2020, ~ 6 am
+// Binary Search
 
 const search = (arr, target) => {
 	let left = 0;
@@ -19,4 +19,6 @@ const search = (arr, target) => {
 	console.log("The target doesn't exist in the array.");
 };
 
+const input = [1, 2, 3, 4, 5];
+const target = 5;
 console.log(search(input, target));

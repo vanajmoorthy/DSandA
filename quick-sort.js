@@ -1,3 +1,6 @@
+// Vanaj Moorthy. 12th August 2020, ~ 6:45 am
+// Quick Sort
+
 const sort = (arr, left, right) => {
 	left = left || 0;
 	right = right || arr.length - 1;
