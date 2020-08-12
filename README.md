@@ -1,4 +1,6 @@
 # DSandA
+
 ⚙ Some simple data structures &amp; algorithms practice.
 
-* Binary Search
+-   Binary Search
+-   Quick Sort
